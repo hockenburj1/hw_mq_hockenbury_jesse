@@ -1,0 +1,9 @@
+body {
+    background-color: gold;
+}
+
+@media (min-width: 716px) and (max-width: 959px) {
+    body {
+        background-color: saddlebrown;
+    }
+}
